@@ -1,12 +1,10 @@
 <p align="center">
-    <img src="sin_city_jail_cell/frame_0000.png" width="200">
-    <br>
-    <img src="sin_city_fresh_air/frame_0000.png" width="200">
+    <img src="sin_city_jail_cell/frame_0000.png" width="400">
 </p>
 
 # Recoding Sin City
 
-This project recoding two passages of Frank Miller's Sin City.
+This project recoding a passage of Frank Miller's Sin City.
 
 It's completely generated with Python using py5 framework.
 
@@ -24,8 +22,6 @@ It's completely generated with Python using py5 framework.
 **You don't need the thonny-py5mode plugin*
 
 ## Run skecthes
-
-$ `python sin_city_fresh_air.py`
 
 $ `python sin_city_jail_cell.py`
 
