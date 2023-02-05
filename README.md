@@ -1,12 +1,38 @@
 <p align="center">
-    <img src="sin_city_jail_cell/frame_0000.png" width="400">
+    <img src="sin_city_jail_cell/frame_0000.png" width="300">
+    <br>
+    <img src="sin_city_fresh_air/frame_0000.png" width="300">
 </p>
 
 # Recoding Sin City
 
-This project recoding a passage of Frank Miller's Sin City.
+This project recoding two passages of Frank Miller's Sin City.
 
 It's completely generated with Python using py5 framework.
+
+## Process
+
+### Fresh Air scene
+Paper:
+
+<img src="extra/draft_1.jpg" width="200">
+
+Layout and text:
+
+<img src="extra/v_1.jpg" width="200">
+
+Reference:
+
+<img src="extra/ref_1.jpg" width="200">
+
+### Jail Cell scene
+Video:
+
+[![](extra/thumb_2_200.jpg)](https://youtu.be/KlUvCwfRoZA)
+
+Reference:
+
+<img src="extra/ref_2.jpg" width="200">
 
 ## Requirements
 
@@ -23,8 +49,10 @@ It's completely generated with Python using py5 framework.
 
 ## Run skecthes
 
+$ `python sin_city_fresh_air.py`
+
 $ `python sin_city_jail_cell.py`
 
 ## Author
 
-[Claromes](https://claromes.github.io)
+[claromes](https://claromes.github.io)
