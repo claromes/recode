@@ -10,6 +10,10 @@ This project recoding two passages of Frank Miller's Sin City.
 
 It's completely generated with Python using py5 framework.
 
+## Official Selection
+
+[Processing Community Day 2023 Porto](https://pcd.fba.up.pt/2023/exhibition/claromes.htm)
+
 ## Process
 
 ### Fresh Air scene
