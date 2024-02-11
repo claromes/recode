@@ -14,6 +14,8 @@ It's completely generated with Python using py5 framework.
 
 [Processing Community Day 2023 Porto](https://pcd.fba.up.pt/2023/exhibition/claromes.htm)
 
+[Conexão#V 2023](http://conexao.natfap.art/arquivo/conexao5/exposicao5/claromes/)
+
 ## Process
 
 ### Fresh Air scene
@@ -60,3 +62,7 @@ $ `python sin_city_jail_cell.py`
 ## Author
 
 [Claromes](https://claromes.com)
+
+## Font Credits
+
+[2014 Nate Piekos](https://github.com/claromes/recode/blob/main/data/license.txt)
