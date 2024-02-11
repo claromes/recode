@@ -59,4 +59,4 @@ $ `python sin_city_jail_cell.py`
 
 ## Author
 
-[claromes](https://claromes.github.io)
+[Claromes](https://claromes.com)
